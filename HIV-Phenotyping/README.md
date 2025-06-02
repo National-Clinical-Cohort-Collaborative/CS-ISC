@@ -9,7 +9,10 @@ In this repository, we provide an .ipynb file (Jupyter notebook) displaying the 
 
 # How to use files
 **N3C:** We are working on creating a Knowledge store object of our HIV phenotyping pipeline to automatically update with each new data release. 
-**All of Us:** 1. In your all of us workspace, select "Analysis" along the top tab
+<br>
+**All of Us:** 
+<br>
+1. In your all of us workspace, select "Analysis" along the top tab
 2. Open a new Jupyter Notebook
 3. In the Jupyter ribbon, select File > Open.
 4. In the above header, select 'Upload', and select the .ipynb file.
